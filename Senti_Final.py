@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 #import review file and append name of teacher
 
-l=raw_input("Enter name of teacher:")
+l=input("Enter name of teacher:")
 
 #load file name to testdata
 
